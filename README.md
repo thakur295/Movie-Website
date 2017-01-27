@@ -15,9 +15,40 @@ Download and Install python
 
 #Steps to open Website
 <ol>
-<li>Download all files and save them in same directory</li>
-<li>Click on fresh_tomatoes.html to open the webpage</li>
-<li>Now click on your favourite movie to watch it's trailer</li>
+<li>Manually</li>
+<ul>
+ <li>Download all files and save them in same directory</li>
+ <li>Click on fresh_tomatoes.html to open the webpage</li>
+ <li>Atlast Click on your favourite movie poster n enjoy :)</li>
+</ul>
+<li>Through IDLE</li>
+<ul>
+ <li>Download all files and save them in same directory</li>
+ <li>Open Python IDLE window</li>
+ <li>Open media.py file in Python IDLE</li>
+ <li>Now Click on the F5 button to run the file</li>
+ <li>Now Webpage is infront of you</li>
+ <li>Atlast Click on your favourite movie poster n enjoy :) </li>
+</ul>
+<li>Through Command Line(CMD)</li>
+<ul>
+ <li>Download all files and save them in same directory</li>
+ <li>Now press windows+r to open run window</li>
+ <li>Write "cmd" and press Enter</li>
+ <li>Goto the directory where all python files regarding project are saved</li>
+ <li>Type "python media.py"</li>
+ <li>Now webpage is infront of you</li>
+ <li>Atlast Click on your favourite movie poster n enjoy :)</li>
+</ul>
+<li>Through Linux Terminal</li>
+<ul>
+ <li>Download all files and save them in same directory</li>
+ <li>Open terminal(ctrl+alt+t)</li>
+ <li>Goto the directory where all python files regarding project are saved</li>
+ <li>Type "python media.py"</li>
+ <li>Now webpage is infront of you</li>
+ <li>Atlast Click on your favourite movie poster n enjoy :)</li>
+</ul>
 </ol>
 
 #Standard Library Used
