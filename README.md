@@ -25,7 +25,7 @@ Download and Install python
 <li>
 <b>urllib: </b> This module provides a high-level interface for fetching data across the
  World Wide Web. In particular, the urlopen() function is used in this program to open websites </li>
- <li><b>ast:</b> he ast module helps Python applications to process trees of the Python
+ <li><b>ast:</b> The ast module helps Python applications to process trees of the Python
 abstract syntax grammar. In this program we used literal_eval(args) function of this library to convert string into dictionary</li>
 </ul>
  
