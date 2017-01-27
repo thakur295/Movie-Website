@@ -15,13 +15,13 @@ Download and Install python
 
 #Steps to open Website
 <ol>
-<li>Manually</li>
+<li><b>Manually</b></li>
 <ul>
  <li>Download all files and save them in same directory</li>
  <li>Click on fresh_tomatoes.html to open the webpage</li>
  <li>Atlast Click on your favourite movie poster n enjoy :)</li>
 </ul>
-<li>Through IDLE</li>
+<li><b>Through IDLE</b></li>
 <ul>
  <li>Download all files and save them in same directory</li>
  <li>Open Python IDLE window</li>
@@ -30,7 +30,7 @@ Download and Install python
  <li>Now Webpage is infront of you</li>
  <li>Atlast Click on your favourite movie poster n enjoy :) </li>
 </ul>
-<li>Through Command Line(CMD)</li>
+<li><b>Through Command Line(CMD)</b></li>
 <ul>
  <li>Download all files and save them in same directory</li>
  <li>Now press windows+r to open run window</li>
@@ -40,7 +40,7 @@ Download and Install python
  <li>Now webpage is infront of you</li>
  <li>Atlast Click on your favourite movie poster n enjoy :)</li>
 </ul>
-<li>Through Linux Terminal</li>
+<li><b>Through Linux Terminal</b></li>
 <ul>
  <li>Download all files and save them in same directory</li>
  <li>Open terminal(ctrl+alt+t)</li>
